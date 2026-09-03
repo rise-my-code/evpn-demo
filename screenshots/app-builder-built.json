@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SVD Fabric",
+      "hasCanvas": false,
+      "bodyTextLen": 5515,
+      "bodyTextHash": "bce8370b947979d24b7bc6ad586bbe664f55549f18b8bf694f8cc859e2d44ed9",
+      "bodyTextPrefix": "AS 64512 SVD Fabric Rootless Podman lab of a homelab BGP-EVPN fa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SVD Fabric",
+      "hasCanvas": false,
+      "bodyTextLen": 5515,
+      "bodyTextHash": "bce8370b947979d24b7bc6ad586bbe664f55549f18b8bf694f8cc859e2d44ed9",
+      "bodyTextPrefix": "AS 64512 SVD Fabric Rootless Podman lab of a homelab BGP-EVPN fa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

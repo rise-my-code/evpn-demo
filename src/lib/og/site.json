@@ -1,0 +1,6 @@
+{
+  "title": "SVD Fabric",
+  "type": "website",
+  "card": "custom",
+  "description": "Rootless Podman BGP-EVPN lab: ER4 underlay, GRE and IPsec VTI, FRR VTEPs, Single VXLAN Device. Download labctl."
+}
